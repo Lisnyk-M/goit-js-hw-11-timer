@@ -1,0 +1,31 @@
+.timer-wrap{
+    width: 760px;
+}
+
+.timer{
+    display: flex;
+    /* flex-grow: initial; */
+
+    /* margin-right: 20%; */
+    border: 2px solid #888888;
+    border-radius: 5px;
+}
+
+.field{
+    min-width: 100px;
+    min-height: 80px;
+    text-align: center;
+}
+
+.value{
+    font-size: 150px;
+}
+
+.label{
+    display: block;
+    text-align: center;
+}
+
+
+
+
